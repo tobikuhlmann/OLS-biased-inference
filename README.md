@@ -1,4 +1,4 @@
-## Robust estimation and prediction: 
+## Robust OLS estimation and prediction
 ##### What happens to OLS if core assumptions are not met?
 
 Tobias Kuhlmann and Yuting Xu
